@@ -1,0 +1,18 @@
+test
+styleCheck
+compile
+clear
+styleCheck
+compile
+clean
+compile
+test
+clean
+help
+tasks
+update
+compile
+test
+styleCheck
+submit jsmoyam@gmail.com tjUu4tBgQp
+exit
